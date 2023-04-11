@@ -44,7 +44,7 @@ The objective of this guide is to help beginners in this amazing yet challenging
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Interview Questions](#interview-questions)
-- [My admired companies](#my-admired-companies)
+
 
 ---
 
